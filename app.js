@@ -3,8 +3,8 @@
 
 ///Edit Under This only
 
-var // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-const // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+
+
 const firebaseConfig = {
   apiKey: "AIzaSyB7JFjHbd8D4XImCX94eALgv7BDk-YSkUo",
   authDomain: "instagram-88edb.firebaseapp.com",
