@@ -5,15 +5,16 @@
 
 
 
+
 const firebaseConfig = {
-  apiKey: "AIzaSyB7JFjHbd8D4XImCX94eALgv7BDk-YSkUo",
-  authDomain: "instagram-88edb.firebaseapp.com",
-  databaseURL: "https://instagram-88edb.firebaseio.com",
-  projectId: "instagram-88edb",
-  storageBucket: "instagram-88edb.appspot.com",
-  messagingSenderId: "901413815857",
-  appId: "1:901413815857:web:c47948af0eaa853231b710",
-  measurementId: "G-KSN978573P"
+  apiKey: "AIzaSyBZfEM0q0er5e2HBI9X9NckKORDtz783J8",
+  authDomain: "nobi-d236c.firebaseapp.com",
+  databaseURL: "https://nobi-d236c-default-rtdb.firebaseio.com",
+  projectId: "nobi-d236c",
+  storageBucket: "nobi-d236c.appspot.com",
+  messagingSenderId: "976015869391",
+  appId: "1:976015869391:web:40724addf63c7df1b4beba",
+  measurementId: "G-R74Y3NSNNQ"
 };
 ////Do Not Edit Below This
 
